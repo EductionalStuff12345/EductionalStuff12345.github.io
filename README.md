@@ -55,4 +55,4 @@ No download, no registration - just instant fun in your browser!
 
 Enjoy playing Plinko! Share with friends for more fun.
 
-[Play Plinko Game Now](https://plinko-game-online.github.io/)
+[Play Plinko Game Now](https://plinko-game-online.github.io/) e
