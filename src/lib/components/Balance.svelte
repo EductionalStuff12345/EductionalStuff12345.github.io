@@ -19,9 +19,11 @@
 <input
   type="number"
   bind:value={$balance}
+  on:change={(e) => $balance = e.target.valueAsNumber}
   min="0"
   class="min-w-16 text-right bg-slate-900 text-white outline-none"
 />
+
 
   </div>
   <Popover.Root>
